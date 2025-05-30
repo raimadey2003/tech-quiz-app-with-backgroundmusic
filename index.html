@@ -1,0 +1,45 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Online Quiz App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="name-container" id="nameBox">
+    <h2>Enter Your Name to Start the Quiz</h2>
+    <input type="text" id="username" placeholder="Your Name" required />
+    <button onclick="startQuiz()">Start Quiz</button>
+  </div>
+
+  <div class="quiz-container" id="quizBox" style="display:none;">
+    <h1>Online Tech Quiz</h1>
+    <p id="userNameDisplay"></p>
+    <div id="timer-bar">
+      <div id="timer-fill"></div>
+    </div>
+    <p id="timer"></p>
+    <p id="question"></p>
+    <div id="options"></div>
+    <button id="nextBtn">Next</button>
+    <p id="score"></p>
+  </div>
+
+  <div class="score-board" id="finalScoreBox" style="display:none;"></div>
+
+  <!-- Background and feedback sounds -->
+  <audio id="bgMusic" src="sounds/background.mp3" loop></audio>
+  <audio id="correctSound" src="sounds/correct.mp3"></audio>
+  <audio id="incorrectSound" src="sounds/incorrect.mp3"></audio>
+
+  <!-- Mute/Unmute Toggle -->
+  <button id="toggleSoundBtn">🔊</button>
+
+  <p id="questionNumber" class="question-number"></p>
+  <p id="question"></p>
+
+  <script src="script.js"></script>
+</body>
+</html>
