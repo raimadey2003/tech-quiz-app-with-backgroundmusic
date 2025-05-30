@@ -35,7 +35,7 @@ https://www.linkedin.com/posts/raima-dey-13426a351_technohacks-technohacksedutec
 1. Clone the repository  
    ```bash
    git clone https://github.com/raimadey2003/tech-quiz-app-with-backgroundmusic.git
-   cd online-quiz-app
+   cd tech-quiz-app-with-backgroundmusic
 ````
 
 2. Install dependencies 
