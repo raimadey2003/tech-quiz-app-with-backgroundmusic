@@ -82,5 +82,10 @@ tech-quiz-app-with-backgroundmusic/
 
 ---
 
+## 📬 Contact
+
+Feel free to connect:
+[LinkedIn](www.linkedin.com/in/raima-dey-13426a351) | [Email](mailto:raimadey9836@gmail.com)
+
 Thank you for checking out this project! Feel free to ⭐️ the repository if you found it helpful.
 
