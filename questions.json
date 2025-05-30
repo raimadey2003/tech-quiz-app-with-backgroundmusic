@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which HTML tag is used to define an internal style sheet?",
+    "options": ["<script>", "<style>", "<css>", "<link>"],
+    "answer": "<style>"
+  },
+  {
+    "question": "Which company developed the React.js library?",
+    "options": ["Google", "Facebook", "Microsoft", "Apple"],
+    "answer": "Facebook"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Color Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets"],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What is the output of 'typeof null' in JavaScript?",
+    "options": ["null", "object", "undefined", "boolean"],
+    "answer": "object"
+  },
+  {
+    "question": "Which protocol is used to fetch web pages?",
+    "options": ["HTTP", "FTP", "TCP", "SMTP"],
+    "answer": "HTTP"
+  },
+  {
+    "question": "Which database is a NoSQL database?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"],
+    "answer": "MongoDB"
+  },
+  {
+    "question": "Which command is used to initialize a new Git repository?",
+    "options": ["git start", "git init", "git new", "git create"],
+    "answer": "git init"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Programming Interface", "Application Process Integration", "Advanced Processing Interface"],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "question": "What is Node.js primarily used for?",
+    "options": ["Data analysis", "Mobile app development", "Backend web development", "Game design"],
+    "answer": "Backend web development"
+  },
+  {
+    "question": "Which of the following is a Python web framework?",
+    "options": ["Spring", "Django", "Laravel", "Ruby on Rails"],
+    "answer": "Django"
+  }
+]
