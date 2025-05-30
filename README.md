@@ -61,7 +61,7 @@ https://www.linkedin.com/posts/raima-dey-13426a351_technohacks-technohacksedutec
  📁 Folder Structure
 
 ```
-online-quiz-app/
+tech-quiz-app-with-backgroundmusic/
 │
 ├── public/
 │   ├── index.html
