@@ -17,7 +17,7 @@ An interactive and user-friendly online quiz app built with HTML, CSS, and JavaS
 
  📸 Demo
 
-https://www.linkedin.com/posts/raima-dey-13426a351_technohacks-technohacksedutechofficial-webdevelopment-activity-7333211015767072769-TR0e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfIEjgBh_9vyf6CGiDyydF9iq8O8XpKybM
+https://www.linkedin.com/posts/raima-dey-13426a351_webdevelopment-fullstackdeveloper-javascript-activity-7333211015767072769-p13L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfIEjgBh_9vyf6CGiDyydF9iq8O8XpKybM
 
 ---
 
